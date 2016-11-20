@@ -8,16 +8,11 @@ operando2 = int(input("Segundo operando: "))
 
 if operador == '+':
     print (operando1 + operando2)
-
 elif operador == '-':
     print (operando1 - operando2)
-
 elif operador == '*':
     print (operando1 * operando2)
-
 elif operador == '/':
     print (operando1 / operando2)
 else:
-   print("Invalid input")
-
-
+   print("Operador Inválido")
