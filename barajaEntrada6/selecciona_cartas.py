@@ -18,4 +18,4 @@ for [palo, numero] in cartas:
         mazo_separado.append([palo, numero])
 
 for [palo, numero] in mazo_separado:
-    print numero + " " + palo
+    print (numero + " " + palo)
