@@ -1,3 +1,3 @@
 # aprendeapensarprogramando
 
-http://aprendeapensarprogramando.org
+https://aprendeapensarprogramando.wordpress.com
